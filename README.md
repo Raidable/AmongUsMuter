@@ -9,9 +9,9 @@
 
 # SUPPORT
 
-[Discord] > Raid#9074
+> [Discord] > Raid#9074
 
-[Discord Server] > https://discord.gg/VSD7M5t
+> [Discord Server] > https://discord.gg/VSD7M5t
 
 
 
