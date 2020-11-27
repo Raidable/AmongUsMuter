@@ -35,7 +35,7 @@ https://youtu.be/6_80evEHrGE
 > Don't you know how to install these packages? Take a look at the Youtube Tutorial.
 
 > If the 2nd method also doesn't work. you can try to execute the bot:
-> python main.py
+> python3 main.py
 
 
 
